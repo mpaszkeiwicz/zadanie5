@@ -1,0 +1,24 @@
+body{
+    background-color: pink;
+}
+
+.about{
+    background-color: salmon;
+    color: black;
+}
+.skils{
+    background-color: silver;
+    color: green;
+}
+.portfolio{
+    background-color: slateblue;
+    color: rgb(216, 42, 42);
+}
+.contakt{
+    background-color: tomato;
+    color: rgb(28, 0, 128);
+}
+.hobby{
+    background-color: rgb(20, 97, 122);
+    color: rgb(231, 247, 9);
+}
